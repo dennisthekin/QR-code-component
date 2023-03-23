@@ -24,7 +24,7 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 ### Links
 
 - Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site: [Add live site URL here](https://qr-code-component-denniskin.vercel.app/)
+- [View live site](https://qr-code-component-denniskin.vercel.app/)
 
 ## My process
 
