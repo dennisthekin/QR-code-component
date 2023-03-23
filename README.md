@@ -22,7 +22,7 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
+- [View the solution on Frontend Mentor](https://www.frontendmentor.io/solutions/centered-card-using-absolute-positioning-FESwaiIXi_)
 - [View live site](https://qr-code-component-denniskin.vercel.app/)
 
 ## My process
